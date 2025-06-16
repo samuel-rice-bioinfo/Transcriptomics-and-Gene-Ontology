@@ -1,5 +1,5 @@
 # Transcriptomics-and-Gene-Ontology
-## Transcriptomic Analysis Pipeline
+## Transcriptomic SNP Analysis Pipeline
 
 #### Overview
 This repository contains the code and analysis for transcriptomic analysis, specifically differential expression analysis, performed on RNA-seq data from mutant and control samples. The focus of this study is a single-nucleotide polymorphism (SNP) in the transcription factor, forkhead protein (FKHR) mRNA, suspected to cause a genetic disease by altering gene expression.
